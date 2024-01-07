@@ -35,5 +35,17 @@ export const birthdays = [
         image: 'https://www.shareicon.net/data/2016/09/15/829452_user_512x512.png',
         age: 17
     },
+    {
+        id: 236,
+        name: 'Janie Obrien',
+        image: 'https://icon-library.com/images/icon-for-users/icon-for-users-18.jpg',
+        age: 3
+    },
+    {
+        id: 83,
+        name: 'Gary Wallace',
+        image: 'https://www.shareicon.net/data/2016/09/15/829452_user_512x512.png',
+        age: 17
+    },
 
 ]
